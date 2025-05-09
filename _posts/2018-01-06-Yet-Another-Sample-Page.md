@@ -1,5 +1,5 @@
 ---
-title: Yet Another Sample Page
+title: NOTICIA
 published: true
 ---
 
